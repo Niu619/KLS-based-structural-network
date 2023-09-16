@@ -1,4 +1,4 @@
-%% 节点度的年龄相关性变化
+%% 
 load('E:\01niujinpeng\graduate\ISFC\article_fourth\struc_predict\AAL_out0.1-0.7\DegreeCentrality\DegreeCentrality.mat');
  
 covariate(:,1) = xlsread('E:\01niujinpeng\graduate\behavior.xlsx','struc_predict','G2:G423');
