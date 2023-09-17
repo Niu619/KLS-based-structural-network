@@ -1,4 +1,4 @@
-# KLS-based-structural-network
+## KLS-based-structural-network
 This repository provides codes for constructing KLS divergence-based structural similarity networks by assessing the distribution similarity of gray matter volume between brain regions and predicting individual fluid intelligence. 
 
 # age_node
